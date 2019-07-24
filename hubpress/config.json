@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://in38co.github.io",
-    "hubpress": "https://in38co.github.io",
-    "theme": "//in38co.github.io/themes/casper",
-    "images": "https://in38co.github.io/images"
+    "site": "http://incubate.co.th",
+    "hubpress": "http://incubate.co.th",
+    "theme": "//incubate.co.th/themes/casper",
+    "images": "http://incubate.co.th/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
